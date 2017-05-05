@@ -77,7 +77,8 @@ Urls look like: `https://sweeting.me/pocket/archive/1493350273/en.wikipedia.org/
 This is basically an open-source version of [Pocket Premium](https://getpocket.com/premium) (which you should consider paying for!).
 I got tired of sites I saved going offline or changing their URLS, so I started
 archiving a copy of them locally now, similar to The Way-Back Machine provided
-by [archive.org](https://archive.org).
+by [archive.org](https://archive.org).  Self hosting your own archive allows you to save
+PDFs & Screenshots of dynamic sites in addition to static html, something archive.org doesn't do.
 
 Now I can rest soundly knowing important articles and resources I like wont dissapear off the internet.
 
