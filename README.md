@@ -11,7 +11,7 @@ Save an archived copy of all websites you star using Pocket, indexed in an html 
 `archive.py` is a script that takes a [Pocket](https://getpocket.com/export) export, and turns it into a browsable html archive that you can store locally or host online.
 
 **Runtime:** I've found it takes about an hour to download 1000 articles, and they'll take up roughly 1GB.
-Those numbers are from running it signle-threaded on my i5 machine with 50mbps down.  YMMV.
+Those numbers are from running it single-threaded on my i5 machine with 50mbps down.  YMMV.
 
 **Dependencies:** `google-chrome --headless (59)`,` wget`, `python3`
 
